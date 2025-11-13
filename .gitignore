@@ -1,0 +1,11 @@
+# PlatformIO
+.pio/
+/build/
+
+# VS Code settings
+.vscode/
+
+# Hasil kompilasi/firmware
+*.bin
+*.elf
+*.hex
