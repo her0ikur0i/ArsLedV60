@@ -40,13 +40,10 @@ lib_deps =
     adafruit/Adafruit GFX Library@^1.11.11
     adafruit/Adafruit BusIO@^1.14.5
     adafruit/Adafruit AHTX0@^2.0.2
-    adafruit/Adafruit ADS1015@^1.4.1
     adafruit/Adafruit MAX31856 library@^1.2.0
     adafruit/Adafruit AS726x@^1.0.1
     adafruit/Adafruit MCP4728@^1.0.1
     adafruit/Adafruit NeoPixel@^1.12.0
-    adafruit/Adafruit LTR390@^1.0.3
-    adafruit/Adafruit VCNL4010@^1.0.1
 EOT_INI
 echo "   -> platformio.ini - OK"
 
